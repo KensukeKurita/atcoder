@@ -1,6 +1,6 @@
 # コンテスト実績
-Rank : 39036th \
-Rating : 191 at 2021/09/36\
-Highest Rating : 10Kyu (gray) at 2021/09/36 \
-Rated Matches : 10
-![image](https://user-images.githubusercontent.com/33048775/134811154-7c2d6357-8f14-4e3f-9950-b995b3d3e1e9.png)
+Rank : 33333th \
+Rating : 248 at 2021/10/9\
+Highest Rating : 9Kyu (gray) at 2021/10/9 \
+Rated Matches : 11
+![image](https://user-images.githubusercontent.com/33048775/136692431-326672a0-5c39-4b3c-87ee-ebfd56687c8e.png)
