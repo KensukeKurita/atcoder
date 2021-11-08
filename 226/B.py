@@ -25,6 +25,21 @@ def main():
 
     return
 
+def main2():
+    N = int(input())
+    L = []
+    A = set()
+    for i in range(N):
+        flag = False
+        aux = [int(a) for a in input().split()]
+        l = aux[0]
+        a = tuple(aux[1:len(aux)])
+        A.add(a)
+
+
+    print(len(A))
+
+
 
 if __name__ == "__main__":
-    main()
+    main2()
