@@ -21,6 +21,7 @@ def main():
                 pass
     print(dp[-1])
 
+
 if __name__ == "__main__":
     input = sys.stdin.readline
     N, W = map(int, input().split())
